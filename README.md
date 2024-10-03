@@ -66,8 +66,6 @@ Payment Operations
 
 # Contributor
 
-Sahil Javiya
-
-https://github.com/Sahil0102-a11y
+Sahil Javiya https://github.com/Sahil0102-a11y
 
 Pawan Maurya
